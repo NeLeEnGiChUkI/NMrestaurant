@@ -45,12 +45,12 @@ img{
     margin-top: -400px;
 }
 button{
-    padding: 10px;
+    padding: 13px;
     color: #ffff;
     border-radius: 30px;
-    background-color: rgb(232, 111, 35);
+    background-color: #ee5e37;
     margin-left: 60px;
-    border-color: rgb(232, 111, 35) ;
+    border-color: #ee5e37;
     
 }
 
@@ -58,13 +58,53 @@ button{
 .row{
     margin-left: 998px;
 }
-.order{
-    margin-top: 451px;
-    display: -webkit-box;
-    border-color: yellow;
+.Box{
+    justify-content: space-between;
+    
+    
+
+    /* justify content: space between; */
+
+padding: 160px;
+margin: 40px;
+border-radius: 10px;
+background-color:#febe00;
+gap: -300px;
+
+size: 40px;
+
+
+
     
 }
-.specials{
-    margin-right: 600px;
+
+.image{
+    margin-left: -60px;
+    margin-top: -30px;
+
 }
-   
+.icon{
+    margin-top: -75PX;
+   margin-left: -280px;
+   margin-bottom: 20px;
+
+}
+.picture{
+    margin-top: -25px ;
+    margin-bottom: -50;
+    margin-left: -70px;
+}
+.photo{
+    margin-left: 160px;
+}
+h4{
+    color:#ffff;
+    font-size: 25px;
+    margin-left: 180px;
+    margin-top: -35px;
+
+}
+.frame{
+    margin-left: 360px;
+    margin-top: -37px;
+}
